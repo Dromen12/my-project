@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5913316b-1e7a-4f5c-ba1b-a320f3d332f6" name="Changes" comment="modified frouth file in the feature branch" />
+    <list default="true" id="5913316b-1e7a-4f5c-ba1b-a320f3d332f6" name="Changes" comment="modified frouth file in the feature branch">
+      <change afterPath="$PROJECT_DIR$/first-subfolder/sixth-file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-subfolder/fourth-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/second-subfolder/fourth-file.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706869344891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modified frouth file in the feature branch">
+      <created>1706870525341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706870525341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
